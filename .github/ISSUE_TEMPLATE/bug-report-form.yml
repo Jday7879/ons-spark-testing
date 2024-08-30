@@ -21,7 +21,7 @@ body:
     id: version
     attributes:
       label: Language Version
-      description: What language are you using, please select Python > 3.6 if this is a bug relating to building the book?
+      description: What language are you using? please select Python > 3.6 if this is a bug relating to building the book.
       options:
         - 
         - Python <= 3.6
